@@ -89,7 +89,7 @@ const Contact = () => {
             
             <div className="location-badge">
               <span>📍</span>
-              <span>Currently at TAP Academy, Bangalore</span>
+              <span>Currently at BTM Layout, Bangalore</span>
             </div>
           </div>
           
