@@ -91,7 +91,7 @@ const Experience = () => {
             
             <div className="stats-container">
               <div className="stat-item">
-                <div className="stat-value">2</div>
+                <div className="stat-value">10+</div>
                 <div className="stat-label">Projects Completed</div>
               </div>
               <div className="stat-item">
