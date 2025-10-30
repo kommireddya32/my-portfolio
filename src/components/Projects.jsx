@@ -32,7 +32,7 @@ const Projects = () => {
       image: project1Image,
       tags: ['Spring Boot', 'JSP', 'MySQL', 'ZXing', 'HTML/CSS', 'JavaScript'],
       github: 'https://github.com/kommireddya32/Smart-Attendence-Systems',
-      demo: 'https://smart-attendence-systems-1.onrender.com'
+      demo: 'https://smartattendancesystem-1.netlify.app'
     }
   ];
 
