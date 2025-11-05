@@ -64,6 +64,18 @@ const Skills = () => {
       category: 'Tools',
       color: '#9775fa',
       icon: '💻'
+    },
+    {
+      name: 'Postman',
+      category: 'Tools',
+      color: '#FF6C37',
+      icon: '📡'
+    },
+    {
+      name: 'Swagger',
+      category: 'Tools',
+      color: '#85EA2D',
+      icon: '📚'
     }
   ];
 
